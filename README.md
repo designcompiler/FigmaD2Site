@@ -1,3 +1,3 @@
 # FigmaD2Site
 
-Experiment and pubice playground repo for all things figma, and development.
+Experiment and public playground repo for all things figma, and development.
