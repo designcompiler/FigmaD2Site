@@ -1,3 +1,5 @@
 # FigmaD2Site
 
-Experiment and public playground repo for all things figma, and development.
+Figma plugin for selecting and viewing node information.
+
+**Setup:** `cd Figma2Site && npm install && npm run build`
